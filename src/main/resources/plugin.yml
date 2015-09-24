@@ -1,0 +1,9 @@
+main: net.kazu0617.playerlocationdisplay.Main
+name: PlayerLocationDisplay
+author: kazu0617
+version: 1.0
+
+commands:
+  PlayerLocationDisplay:
+    description: Display PlayerLocation
+    aliases: [pld]
